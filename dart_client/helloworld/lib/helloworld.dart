@@ -1,0 +1,1 @@
+export 'bin/client.dart' show GreeterService;
